@@ -55,7 +55,11 @@ The following tone is a prototype idea only. It has not been validated for cross
 
 ---
 
-## 4. Python Reference Parser\n\nThe implementation is maintained in [`ueas.py`](ueas.py). See the usage and limitations below.\n\n## Notes
+## 4. Python Reference Parser
+
+The implementation is maintained in [`ueas.py`](ueas.py). See the usage and limitations below.
+
+## Notes
 * If the country has no state system, please insert N/A into the value instead of the city or country
 
 
