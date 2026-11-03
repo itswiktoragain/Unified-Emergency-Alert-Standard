@@ -1,9 +1,9 @@
 """
-UEAS - Unified Emergency Alert Standard Python Reference Library (v1.1)
+Legacy UEAS JSON prototype parser (v1.1).
 
-A small, dependency-free parser for UEAS JSON alert envelopes. This prototype
-parses and performs basic structural checks; it does not verify signatures or
-provide authoritative geographic targeting.
+This module supports the repository's historical JSON/UUIDv7 experiment only.
+It does not implement the UEAS CAP Profile draft, verify signatures, or provide
+authoritative geographic targeting. Do not use it for real emergency alerts.
 """
 
 import json
