@@ -110,7 +110,7 @@ A conforming producer MUST:
 
 This draft defines three conformance targets:
 
-- **UEAS message:** a CAP 1.2 document satisfying Sections 3 and 4's message requirements.
+- **UEAS message:** a CAP 1.2 document satisfying Section 3 and any message-level security requirements in its applicable deployment profile.
 - **UEAS producer:** a system that emits only conforming UEAS messages when operating in UEAS mode and follows Section 6.
 - **UEAS receiver:** a system that validates and processes UEAS messages according to Sections 3–5.
 
