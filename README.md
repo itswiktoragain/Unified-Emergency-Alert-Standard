@@ -11,7 +11,7 @@ UEAS is an experimental proposal for improving interoperability among emergency-
 ## Start here
 
 - [UEAS CAP Profile 0.1](spec/UEAS-CAP-Profile-0.1.md): scope, normative requirements, conformance targets, security/trust requirements, and open issues.
-- [Contributing](CONTRIBUTING.md): how protocol changes are proposed and reviewed.
+- [Contributing](CONTRIBUTING.md): how protocol changes are proposed and reviewed.\n- [Test-only CAP example](examples/cap-test-only.xml): fictional message for format review; never transmit it.
 - [OASIS CAP 1.2](https://docs.oasis-open.org/emergency/cap/v1.2/CAP-v1.2.html): the upstream alert format and XML Schema.
 
 ## What this draft does not provide
