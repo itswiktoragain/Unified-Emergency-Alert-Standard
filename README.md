@@ -95,3 +95,5 @@ class UEASEngine:
             "render_message": data.get("messages", {}).get("en")
         }
 ```
+## Notes
+* If the country has no state system, please insert N/A into the value instead of the city or country
