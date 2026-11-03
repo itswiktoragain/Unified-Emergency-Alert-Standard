@@ -1,4 +1,8 @@
 # 🌐 Unified Emergency Alert Standard (UEAS) — v1.0 Specification
+
+<img width="419" height="122" alt="UEAS-with-wordmark" src="https://github.com/user-attachments/assets/3c0f8dab-0bbb-4a94-963e-597ad070481f" />
+
+
 An optimized, open, secure, and omnichannel public safety alert protocol designed to bring modern data efficiency to smartphones, televisions, radio networks, connected vehicles, and smart home ecosystems simultaneously.
 
 ---
