@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
+  <identifier>ueas-demo-20261103-001</identifier>
+  <sender>ueas-demo@example.invalid</sender>
+  <sent>2026-11-03T05:00:00Z</sent>
+  <status>Test</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en</language>
+    <category>Safety</category>
+    <event>UEAS profile demonstration</event>
+    <responseType>Monitor</responseType>
+    <urgency>Unknown</urgency>
+    <severity>Unknown</severity>
+    <certainty>Unknown</certainty>
+    <effective>2026-11-03T05:00:00Z</effective>
+    <expires>2026-11-03T05:15:00Z</expires>
+    <senderName>UEAS example only</senderName>
+    <headline>TEST ONLY: UEAS profile example</headline>
+    <description>This fictional CAP message demonstrates the draft format. It is not a real warning.</description>
+    <instruction>No action is required. Do not relay this example as an alert.</instruction>
+    <area>
+      <areaDesc>Fictional demonstration area</areaDesc>
+      <geocode>
+        <valueName>UEAS-DEMO</valueName>
+        <value>000001</value>
+      </geocode>
+    </area>
+  </info>
+</alert>
